@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "memorystore": "^1.6.7"
+  },
+  "name": "login-by-token",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennaaaaaaaaa/login-by-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennaaaaaaaaa/login-by-token/issues"
+  },
+  "homepage": "https://github.com/jennaaaaaaaaa/login-by-token#readme",
+  "description": ""
+}
