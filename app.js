@@ -144,8 +144,6 @@ app.get('/users', (req, res) => {
     }
     res.send(user)
 
-
-    res.send(user)
 })
 
 app.post('/login', (req, res) => {
